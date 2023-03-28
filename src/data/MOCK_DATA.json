@@ -5,7 +5,7 @@
         "price": 4952.0,
         "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
         "img": "http://dummyimage.com/200x200.png/ff4444/ffffff",
-        "category": "Pala",
+        "category": "pala",
         "stock": 1
     },
     {
@@ -14,7 +14,7 @@
         "price": 7525.33,
         "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
         "img": "http://dummyimage.com/200x200.png/ff4444/ffffff",
-        "category": "Pala",
+        "category": "pala",
         "stock": 10
     },
     {
@@ -23,7 +23,7 @@
         "price": 6784.56,
         "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
         "img": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
-        "category": "Pala",
+        "category": "pala",
         "stock": 9
     },
     {
@@ -32,7 +32,7 @@
         "price": 6784.56,
         "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
         "img": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
-        "category": "Accesorios",
+        "category": "accesorios",
         "stock": 9
     },
     {
@@ -41,7 +41,7 @@
         "price": 6784.56,
         "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
         "img": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
-        "category": "Accesorios",
+        "category": "accesorios",
         "stock": 9
     },
     {
@@ -50,7 +50,7 @@
         "price": 6784.56,
         "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
         "img": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
-        "category": "Accesorios",
+        "category": "accesorios",
         "stock": 9
     },
     {
@@ -59,7 +59,7 @@
         "price": 7525.33,
         "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
         "img": "http://dummyimage.com/200x200.png/ff4444/ffffff",
-        "category": "Ropa",
+        "category": "ropa",
         "stock": 10
     },
     {
@@ -68,7 +68,7 @@
         "price": 7525.33,
         "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
         "img": "http://dummyimage.com/200x200.png/ff4444/ffffff",
-        "category": "Ropa",
+        "category": "ropa",
         "stock": 10
     },
     {
@@ -77,7 +77,7 @@
         "price": 7525.33,
         "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
         "img": "http://dummyimage.com/200x200.png/ff4444/ffffff",
-        "category": "Ropa",
+        "category": "ropa",
         "stock": 10
     }
     
